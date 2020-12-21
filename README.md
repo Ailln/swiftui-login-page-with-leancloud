@@ -2,6 +2,8 @@
 
 一份使用 **LeanCloud 服务**实现的、具有「**登录注册功能**」的 **SwiftUI 代码**。
 
+<img src="./.github/icon.png" width="100"/>
+
 ## 1 功能
 
 - 用户注册
@@ -14,7 +16,7 @@
 
 ## 2 演示
 
-![](./.github/DEMO.gif)
+<img src="./.github/DEMO.gif" width="300"/>
 
 ## 3 使用
 
