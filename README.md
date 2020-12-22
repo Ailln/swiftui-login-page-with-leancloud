@@ -16,7 +16,7 @@
 
 ## 2 演示
 
-<img src="./.github/DEMO.gif" width="300"/>
+<img src="./.github/demo-xr-1920-1080.gif" width="1080"/>
 
 ## 3 使用
 
